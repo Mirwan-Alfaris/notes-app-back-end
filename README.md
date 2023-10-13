@@ -8,4 +8,5 @@ If you want to test-drive the API follow below instructions:
   3. and then fill it with address of API server: http://13.212.208.26:5000/
   4. if you want "add notes" you can click "Add Note" button. There are three column: 1."Note Title", 2."Tag", 3. and the last, for the text body.
   5. after you adding the notes, you can scroll the page to the bottom of the page, and find the button "Save Note".
+  6. and then if you want to back to the homepage of the notes apps, simply you can press back button  on your device, and then refresh the page to see the list of notes and other changes.
      
